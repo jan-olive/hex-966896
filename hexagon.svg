@@ -3,6 +3,24 @@
 <svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1.29231,0,0,1.29231,-103.859,-177.377)">
         <path d="M278.462,137.256L450.018,236.303L450.018,434.399L278.462,533.446L106.907,434.399L106.907,236.303L278.462,137.256Z" style="fill:rgb(235,235,235);fill-opacity:0;"/>
+        <g transform="matrix(0.773808,0,0,0.773808,80.3669,137.256)">
+            <rect x="83.302" y="134.095" width="291.668" height="254.646"/>
+        </g>
+        <g transform="matrix(0.773808,0,0,0.773808,80.3669,137.256)">
+            <rect x="172.247" y="82.173" width="152.607" height="102.942"/>
+        </g>
+        <g transform="matrix(0.773808,0,0,0.773808,80.3669,137.256)">
+            <rect x="141.545" y="113.778" width="124.162" height="46.956"/>
+        </g>
+        <g transform="matrix(0.773808,0,0,0.773808,80.3669,137.256)">
+            <rect x="303.633" y="102.49" width="106.102" height="83.979"/>
+        </g>
+        <g transform="matrix(0.773808,0,0,0.773808,80.3669,137.256)">
+            <rect x="339.302" y="164.797" width="88.494" height="205.884"/>
+        </g>
+        <g transform="matrix(0.773808,0,0,0.773808,80.3669,137.256)">
+            <rect x="173.15" y="351.718" width="164.797" height="87.591"/>
+        </g>
         <path d="M278.462,137.256L450.018,236.303L450.018,434.399L278.462,533.446L106.907,434.399L106.907,236.303L278.462,137.256ZM278.462,201.589L162.621,268.47L162.621,402.232L278.462,469.113L394.303,402.232L394.303,268.47L278.462,201.589Z"/>
     </g>
 </svg>
